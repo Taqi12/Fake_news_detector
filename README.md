@@ -9,11 +9,11 @@ This project uses a Naive Bayes classifier trained on a dataset of real and fake
 ## Files
 
 * `streamlit_app.py`: The main Streamlit application code.
-* `train_and_save_model.py`: Python script to train and save the machine learning model.
 * `requirements.txt`: Lists the Python packages required to run the application.
 * `tfidf_vectorizer.pkl`: The saved TF-IDF vectorizer model.
 * `nb_classifier.pkl`: The saved Naive Bayes classifier model.
 * `combined_news.csv`: The combined and preprocessed dataset.
+* `Dataset Link`: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset 
 * `True.csv`: Dataset containing real news articles.
 * `Fake.csv`: Dataset containing fake news articles.
 
