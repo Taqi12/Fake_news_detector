@@ -8,7 +8,7 @@ This project uses a Naive Bayes classifier trained on a dataset of real and fake
 
 ## Files
 
-* `streamlit_app.py`: The main Streamlit application code.
+* `app.py`: The main Streamlit application code.
 * `requirements.txt`: Lists the Python packages required to run the application.
 * `tfidf_vectorizer.pkl`: The saved TF-IDF vectorizer model.
 * `nb_classifier.pkl`: The saved Naive Bayes classifier model.
